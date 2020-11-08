@@ -1,0 +1,22 @@
+#container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#laukai {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+
+}
+#sarasas {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+#skaicius {
+    margin-right: 30px;
+}
+th {
+    border: 1px black solid;
+}
